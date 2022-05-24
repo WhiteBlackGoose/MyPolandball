@@ -1,3 +1,3 @@
 ## My Polandball
 
-![](./banner_upscale.png)
+![](./welcome_comic_upscale.png)
