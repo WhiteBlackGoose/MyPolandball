@@ -1,2 +1,3 @@
-# MyPolandball
-All polandball illustrations that I painted
+## My Polandball
+
+![](./banner.png)
